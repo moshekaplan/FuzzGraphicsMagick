@@ -1,4 +1,4 @@
-# FuzzImageMagick
+# FuzzGraphicsMagick
 Full setup for fuzzing GraphicsMagick. Currently (2016-04-19) covers ~23% of the codebase.
 
 ## 1. Download GraphicsMagick
